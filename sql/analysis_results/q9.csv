@@ -1,0 +1,257 @@
+area,Year,Month,total_volume,avg_speed,avg_congestion,total_incidents
+Electronic City,2022,January,211464,45.81,44.55,10
+Electronic City,2022,February,305099,38.31,55.11,20
+Electronic City,2022,March,355650,43.97,55.87,13
+Electronic City,2022,April,303136,43.42,53.63,15
+Electronic City,2022,May,329288,40.68,58.35,20
+Electronic City,2022,June,356915,41.04,58.09,10
+Electronic City,2022,July,241103,40.44,52.32,12
+Electronic City,2022,August,185617,42.27,52.52,9
+Electronic City,2022,September,292593,46.46,59.43,11
+Electronic City,2022,October,320712,46.0,61.02,11
+Electronic City,2022,November,382627,46.94,57.6,18
+Electronic City,2022,December,238714,40.79,63.47,10
+Electronic City,2023,January,258388,40.19,51.7,14
+Electronic City,2023,February,260085,46.49,48.64,16
+Electronic City,2023,March,177298,43.75,45.38,8
+Electronic City,2023,April,288600,43.46,51.15,12
+Electronic City,2023,May,323890,47.46,51.69,11
+Electronic City,2023,June,261694,48.84,54.9,6
+Electronic City,2023,July,249155,41.43,53.24,19
+Electronic City,2023,August,197357,45.06,49.2,7
+Electronic City,2023,September,338343,41.46,53.96,13
+Electronic City,2023,October,254381,45.38,54.85,14
+Electronic City,2023,November,359415,43.0,62.75,19
+Electronic City,2023,December,178321,45.88,42.42,5
+Electronic City,2024,January,336156,42.97,55.69,21
+Electronic City,2024,February,312227,48.18,61.34,24
+Electronic City,2024,March,321589,48.6,55.69,11
+Electronic City,2024,April,271222,42.58,49.49,5
+Electronic City,2024,May,431774,41.16,55.4,23
+Electronic City,2024,June,259862,42.54,49.22,19
+Electronic City,2024,July,290625,40.98,62.12,19
+Electronic City,2024,August,130048,40.42,51.54,6
+Hebbal,2022,January,860537,38.89,85.18,50
+Hebbal,2022,February,772453,37.92,83.54,57
+Hebbal,2022,March,809305,42.03,76.55,51
+Hebbal,2022,April,708991,39.64,83.05,45
+Hebbal,2022,May,639679,42.12,74.89,49
+Hebbal,2022,June,785289,42.65,80.13,39
+Hebbal,2022,July,683951,41.45,76.73,61
+Hebbal,2022,August,767569,42.36,75.59,44
+Hebbal,2022,September,941462,37.42,85.82,48
+Hebbal,2022,October,900787,40.31,76.66,48
+Hebbal,2022,November,836843,39.67,85.69,59
+Hebbal,2022,December,738216,41.72,82.74,40
+Hebbal,2023,January,834971,38.86,74.32,42
+Hebbal,2023,February,643463,38.78,79.87,36
+Hebbal,2023,March,742422,41.56,81.83,29
+Hebbal,2023,April,774035,39.81,74.84,51
+Hebbal,2023,May,708337,41.6,79.93,44
+Hebbal,2023,June,937559,36.79,84.88,42
+Hebbal,2023,July,847211,42.11,71.67,62
+Hebbal,2023,August,993130,38.02,81.86,56
+Hebbal,2023,September,730132,39.45,88.09,49
+Hebbal,2023,October,829113,39.96,82.74,48
+Hebbal,2023,November,745019,42.78,75.65,40
+Hebbal,2023,December,919351,40.54,84.48,44
+Hebbal,2024,January,927338,37.9,81.39,47
+Hebbal,2024,February,900484,41.64,83.27,57
+Hebbal,2024,March,928473,35.97,79.62,63
+Hebbal,2024,April,753660,40.76,78.94,48
+Hebbal,2024,May,601744,39.99,78.08,30
+Hebbal,2024,June,720815,41.73,82.68,36
+Hebbal,2024,July,939064,41.13,76.68,54
+Hebbal,2024,August,285168,40.35,78.81,20
+Indiranagar,2022,January,1769735,39.86,85.05,88
+Indiranagar,2022,February,1669431,37.93,90.41,84
+Indiranagar,2022,March,1902231,37.96,89.82,103
+Indiranagar,2022,April,1845530,37.04,87.9,104
+Indiranagar,2022,May,1596683,41.9,87.1,94
+Indiranagar,2022,June,1909480,39.52,89.38,96
+Indiranagar,2022,July,1831654,37.49,86.72,113
+Indiranagar,2022,August,2085314,39.25,90.62,109
+Indiranagar,2022,September,1677656,38.12,87.93,90
+Indiranagar,2022,October,1768243,38.9,87.41,93
+Indiranagar,2022,November,1868962,39.12,86.19,102
+Indiranagar,2022,December,1619271,37.43,87.79,77
+Indiranagar,2023,January,1696847,37.51,85.9,105
+Indiranagar,2023,February,1520446,41.88,82.36,91
+Indiranagar,2023,March,1880208,37.73,88.51,107
+Indiranagar,2023,April,1727512,38.87,86.15,103
+Indiranagar,2023,May,1813551,37.55,91.14,110
+Indiranagar,2023,June,1843643,39.82,87.0,103
+Indiranagar,2023,July,1725909,37.69,84.51,107
+Indiranagar,2023,August,1914473,38.92,88.28,87
+Indiranagar,2023,September,1738124,37.33,87.73,86
+Indiranagar,2023,October,1785887,39.16,87.15,102
+Indiranagar,2023,November,1787863,39.8,88.15,97
+Indiranagar,2023,December,1632695,40.06,84.63,75
+Indiranagar,2024,January,1799284,38.19,88.72,100
+Indiranagar,2024,February,1774469,36.88,88.54,87
+Indiranagar,2024,March,1825988,37.59,88.43,109
+Indiranagar,2024,April,1635884,37.99,90.95,98
+Indiranagar,2024,May,1644326,39.44,86.66,102
+Indiranagar,2024,June,1854388,40.21,88.19,114
+Indiranagar,2024,July,1923653,37.42,89.14,95
+Indiranagar,2024,August,459808,38.05,80.57,26
+Jayanagar,2022,January,868067,40.52,77.33,52
+Jayanagar,2022,February,854926,40.61,71.71,54
+Jayanagar,2022,March,1032495,38.57,78.93,58
+Jayanagar,2022,April,864378,43.46,73.24,75
+Jayanagar,2022,May,865856,41.82,75.02,51
+Jayanagar,2022,June,896533,39.69,74.93,57
+Jayanagar,2022,July,1013339,40.53,74.72,58
+Jayanagar,2022,August,978256,38.79,77.78,54
+Jayanagar,2022,September,702647,42.16,70.02,34
+Jayanagar,2022,October,974347,38.58,78.11,74
+Jayanagar,2022,November,953352,38.09,77.59,63
+Jayanagar,2022,December,898437,39.1,75.22,49
+Jayanagar,2023,January,1090572,40.85,81.06,79
+Jayanagar,2023,February,842601,35.62,78.22,47
+Jayanagar,2023,March,982838,39.89,76.48,47
+Jayanagar,2023,April,784701,39.22,76.72,43
+Jayanagar,2023,May,937416,41.62,80.51,63
+Jayanagar,2023,June,655645,42.35,69.91,28
+Jayanagar,2023,July,1016903,41.9,76.78,71
+Jayanagar,2023,August,1072124,38.72,77.95,63
+Jayanagar,2023,September,971323,38.49,79.28,63
+Jayanagar,2023,October,1212428,40.04,77.59,73
+Jayanagar,2023,November,923678,37.55,87.02,49
+Jayanagar,2023,December,859390,39.38,71.18,52
+Jayanagar,2024,January,872162,38.73,73.8,45
+Jayanagar,2024,February,969310,37.72,82.2,55
+Jayanagar,2024,March,906929,37.81,81.16,47
+Jayanagar,2024,April,837302,35.39,78.91,46
+Jayanagar,2024,May,846543,41.55,81.5,55
+Jayanagar,2024,June,1061907,40.62,74.91,69
+Jayanagar,2024,July,970373,43.18,75.9,58
+Jayanagar,2024,August,140582,43.0,80.93,8
+Koramangala,2022,January,1784161,36.61,91.79,76
+Koramangala,2022,February,1538489,37.56,89.16,68
+Koramangala,2022,March,1756153,36.44,92.82,55
+Koramangala,2022,April,1767905,35.68,93.68,87
+Koramangala,2022,May,1838476,36.95,94.21,93
+Koramangala,2022,June,2017984,33.5,97.1,76
+Koramangala,2022,July,1981372,35.24,94.17,92
+Koramangala,2022,August,1818883,35.73,94.16,75
+Koramangala,2022,September,1798921,35.76,93.49,87
+Koramangala,2022,October,2215785,32.94,96.04,99
+Koramangala,2022,November,1662079,36.71,97.35,75
+Koramangala,2022,December,1557946,36.28,95.26,68
+Koramangala,2023,January,1896767,36.05,91.97,88
+Koramangala,2023,February,1696903,37.06,94.59,59
+Koramangala,2023,March,1753422,35.77,92.48,92
+Koramangala,2023,April,1692171,34.52,95.24,76
+Koramangala,2023,May,1689450,37.22,90.88,80
+Koramangala,2023,June,1734004,35.48,96.7,73
+Koramangala,2023,July,2012041,33.76,95.75,83
+Koramangala,2023,August,1681201,36.59,94.07,77
+Koramangala,2023,September,1699100,37.85,91.59,83
+Koramangala,2023,October,1881537,35.48,95.0,84
+Koramangala,2023,November,1667747,36.16,91.72,76
+Koramangala,2023,December,1658271,37.17,92.64,87
+Koramangala,2024,January,2001767,35.45,95.0,81
+Koramangala,2024,February,1703355,35.61,93.61,82
+Koramangala,2024,March,1762215,36.77,95.79,97
+Koramangala,2024,April,1954937,36.96,95.16,90
+Koramangala,2024,May,1593218,38.34,94.79,71
+Koramangala,2024,June,1477616,35.81,90.07,86
+Koramangala,2024,July,1709618,38.26,96.34,74
+Koramangala,2024,August,691700,35.5,97.57,29
+M.G. Road,2022,January,1643905,36.34,90.72,92
+M.G. Road,2022,February,1526810,38.38,90.09,70
+M.G. Road,2022,March,2162461,38.81,94.3,115
+M.G. Road,2022,April,1537662,37.41,88.06,89
+M.G. Road,2022,May,1612212,35.14,93.33,107
+M.G. Road,2022,June,1684522,38.75,91.01,97
+M.G. Road,2022,July,1876233,35.99,94.11,96
+M.G. Road,2022,August,1802042,36.8,91.77,115
+M.G. Road,2022,September,1623080,37.73,90.9,79
+M.G. Road,2022,October,1538773,36.86,91.69,86
+M.G. Road,2022,November,1761955,39.06,91.23,108
+M.G. Road,2022,December,1704454,37.34,88.35,72
+M.G. Road,2023,January,1575239,38.53,90.42,80
+M.G. Road,2023,February,1331251,39.94,84.55,71
+M.G. Road,2023,March,1744410,36.05,88.13,88
+M.G. Road,2023,April,1845101,37.1,88.98,88
+M.G. Road,2023,May,1725467,36.03,93.13,87
+M.G. Road,2023,June,1722212,35.95,91.67,99
+M.G. Road,2023,July,1586915,39.46,88.1,81
+M.G. Road,2023,August,1869447,36.82,94.07,83
+M.G. Road,2023,September,1582643,36.43,90.78,91
+M.G. Road,2023,October,1639038,38.61,87.48,98
+M.G. Road,2023,November,1700069,38.14,91.86,91
+M.G. Road,2023,December,1811129,37.41,90.13,81
+M.G. Road,2024,January,1765450,34.56,89.04,71
+M.G. Road,2024,February,1652789,36.6,92.71,94
+M.G. Road,2024,March,1679558,36.35,90.31,74
+M.G. Road,2024,April,1631619,40.6,90.99,75
+M.G. Road,2024,May,1830352,38.24,92.09,126
+M.G. Road,2024,June,1658955,37.47,91.35,92
+M.G. Road,2024,July,1600919,40.56,87.14,74
+M.G. Road,2024,August,559268,37.9,87.2,29
+Whitefield,2022,January,625928,43.63,67.31,36
+Whitefield,2022,February,564253,38.81,71.3,38
+Whitefield,2022,March,586460,44.34,67.93,32
+Whitefield,2022,April,622851,42.25,71.31,35
+Whitefield,2022,May,711134,42.27,70.72,49
+Whitefield,2022,June,667272,39.41,72.57,44
+Whitefield,2022,July,670731,40.93,67.21,43
+Whitefield,2022,August,695488,40.14,71.59,44
+Whitefield,2022,September,680752,42.94,69.73,33
+Whitefield,2022,October,781619,42.38,73.57,42
+Whitefield,2022,November,643604,41.07,67.37,37
+Whitefield,2022,December,561231,42.5,64.95,32
+Whitefield,2023,January,630558,45.52,63.99,38
+Whitefield,2023,February,474219,42.82,65.17,36
+Whitefield,2023,March,652819,41.05,71.22,43
+Whitefield,2023,April,384763,41.76,67.99,25
+Whitefield,2023,May,776836,42.61,68.3,50
+Whitefield,2023,June,721368,44.72,70.01,42
+Whitefield,2023,July,655441,41.97,68.99,41
+Whitefield,2023,August,606996,41.63,65.46,28
+Whitefield,2023,September,542268,43.6,66.41,27
+Whitefield,2023,October,727014,41.72,71.81,52
+Whitefield,2023,November,707919,41.81,74.23,47
+Whitefield,2023,December,532982,43.97,61.12,27
+Whitefield,2024,January,697412,42.82,71.06,37
+Whitefield,2024,February,646890,38.24,74.87,35
+Whitefield,2024,March,729917,44.33,67.84,43
+Whitefield,2024,April,522212,40.69,68.84,35
+Whitefield,2024,May,841719,41.88,69.2,39
+Whitefield,2024,June,572887,44.0,62.83,40
+Whitefield,2024,July,632998,39.59,70.36,42
+Whitefield,2024,August,191469,40.18,79.82,10
+Yeshwanthpur,2022,January,543672,45.38,60.05,31
+Yeshwanthpur,2022,February,413404,43.65,62.31,33
+Yeshwanthpur,2022,March,499623,47.97,62.87,29
+Yeshwanthpur,2022,April,355626,44.6,68.25,20
+Yeshwanthpur,2022,May,527880,44.4,61.75,37
+Yeshwanthpur,2022,June,357360,42.83,62.77,28
+Yeshwanthpur,2022,July,350301,40.0,61.07,17
+Yeshwanthpur,2022,August,440090,44.21,60.46,26
+Yeshwanthpur,2022,September,440614,42.51,60.71,28
+Yeshwanthpur,2022,October,391446,44.41,64.88,17
+Yeshwanthpur,2022,November,551294,44.89,65.23,27
+Yeshwanthpur,2022,December,547570,41.44,69.45,34
+Yeshwanthpur,2023,January,391002,42.21,54.26,21
+Yeshwanthpur,2023,February,363070,42.18,52.98,15
+Yeshwanthpur,2023,March,493687,43.11,68.88,35
+Yeshwanthpur,2023,April,324616,43.07,71.12,25
+Yeshwanthpur,2023,May,386044,43.4,59.4,26
+Yeshwanthpur,2023,June,405162,44.19,63.53,25
+Yeshwanthpur,2023,July,411195,43.64,63.9,20
+Yeshwanthpur,2023,August,683013,45.46,67.69,32
+Yeshwanthpur,2023,September,439665,43.27,54.8,23
+Yeshwanthpur,2023,October,407342,45.12,55.97,24
+Yeshwanthpur,2023,November,384566,43.41,58.07,14
+Yeshwanthpur,2023,December,465725,39.2,65.4,28
+Yeshwanthpur,2024,January,490931,42.87,58.07,30
+Yeshwanthpur,2024,February,377879,39.7,69.6,24
+Yeshwanthpur,2024,March,464989,40.05,65.37,25
+Yeshwanthpur,2024,April,550007,44.26,66.04,33
+Yeshwanthpur,2024,May,431550,48.73,62.14,22
+Yeshwanthpur,2024,June,390300,43.34,62.22,18
+Yeshwanthpur,2024,July,507331,43.21,62.25,25
+Yeshwanthpur,2024,August,108801,33.87,50.08,4

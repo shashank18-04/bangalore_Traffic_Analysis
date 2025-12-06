@@ -1,0 +1,6 @@
+weather,rows,avg_speed,avg_congestion,avg_volume
+Windy,428,39.52,82.37,30163.0
+Fog,959,39.47,81.61,29183.0
+Clear,5426,39.47,80.72,29167.0
+Overcast,1296,39.43,80.3,29053.0
+Rain,827,39.28,80.54,29559.0

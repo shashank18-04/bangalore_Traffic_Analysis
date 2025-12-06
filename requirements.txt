@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyterlab
+prophet   # optional for forecasting; or fbprophet depending on install
+scikit-learn
+sqlite3    #can be used in vscode to run

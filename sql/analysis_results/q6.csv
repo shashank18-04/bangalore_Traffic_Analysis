@@ -1,0 +1,3 @@
+day_type,days,mean_speed,mean_congestion,mean_volume
+incident_day,951,39.42,80.94,274587.0
+no_incident,1,33.51,75.51,120800.0
