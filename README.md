@@ -101,6 +101,8 @@ Ranks areas from most to least congested:
 
 ## 📈 4. Power BI Dashboard
 
+![Power BI Dashboard Overview](images/dashboard.png)
+
 ### ⭐ Dashboard Highlights (`report.pdf`)
 * **KPI Cards:** 261M Total Traffic | 80.82 Avg Congestion | 14K Incidents | 39.45 Avg Speed.
 * **Traffic Trend:** Line chart shows monthly trends across 2022–2024, revealing dips (e.g., August) and peaks.
@@ -160,4 +162,5 @@ If you'd like to connect or discuss the project:
 
 * 📧 **Email:** [shashankngowda18@gmail.com]
 * 👔 **LinkedIn:** [linkedin](https://www.linkedin.com/in/shashank-n-gowda-148456258/)
+
 
