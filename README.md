@@ -68,6 +68,7 @@ Performed visual exploration to understand:
 The SQL analysis digs deep into the data to generate specific reports.
 
 ![sql Overview](images/sql_query1.png)
+![sql Overview](images/sql_query2.png)
 
 ### ⭐ Individual Area Summary
 *Shows avg congestion, avg speed, total volume, and incidents for each area.*
@@ -164,6 +165,7 @@ If you'd like to connect or discuss the project:
 
 * 📧 **Email:** [shashankngowda18@gmail.com]
 * 👔 **LinkedIn:** [linkedin](https://www.linkedin.com/in/shashank-n-gowda-148456258/)
+
 
 
 
