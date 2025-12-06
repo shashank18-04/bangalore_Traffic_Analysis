@@ -67,6 +67,8 @@ Performed visual exploration to understand:
 ## 🧮 3. SQL Analysis
 The SQL analysis digs deep into the data to generate specific reports.
 
+![sql Overview](images/sql_query1.png)
+
 ### ⭐ Individual Area Summary
 *Shows avg congestion, avg speed, total volume, and incidents for each area.*
 * **Indiranagar** (87.64) and **Koramangala** (93.99) rank among the most congested areas.
@@ -162,5 +164,6 @@ If you'd like to connect or discuss the project:
 
 * 📧 **Email:** [shashankngowda18@gmail.com]
 * 👔 **LinkedIn:** [linkedin](https://www.linkedin.com/in/shashank-n-gowda-148456258/)
+
 
 
