@@ -129,7 +129,7 @@ Ranks areas from most to least congested:
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/yourusername/bangalore-traffic-analysis.git](https://github.com/yourusername/bangalore-traffic-analysis.git)
+git clone [https://github.com/shashank18-04/bangalore_Traffic_Analysis.git]
 ```
 **2. Open the Notebook**
 Run `analysis_notebook.ipynb` for EDA.
@@ -160,3 +160,4 @@ If you'd like to connect or discuss the project:
 
 * 📧 **Email:** [shashankngowda18@gmail.com]
 * 👔 **LinkedIn:** [linkedin](https://www.linkedin.com/in/shashank-n-gowda-148456258/)
+
