@@ -17,7 +17,6 @@ To analyze Bangalore’s traffic congestion using statistical, analytical, and v
 * Weather impact on average speeds
 * Road-level congestion severity
 * Incident-driven congestion difference
-* Area × Month performance using heatmaps
 
 This project demonstrates strong skills in **data cleaning, SQL analytics, visualization, dashboard design, and storytelling.**
 
@@ -106,7 +105,7 @@ Ranks areas from most to least congested:
 
 ![Power BI Dashboard Overview](images/dashboard.png)
 
-### ⭐ Dashboard Highlights (`report.pdf`)
+### ⭐ Dashboard Highlights 
 * **KPI Cards:** 261M Total Traffic | 80.82 Avg Congestion | 14K Incidents | 39.45 Avg Speed.
 * **Traffic Trend:** Line chart shows monthly trends across 2022–2024, revealing dips (e.g., August) and peaks.
 * **Area-wise Volume:** Bar chart highlights top congested areas: Koramangala, Indiranagar, MG Road.
@@ -165,6 +164,7 @@ If you'd like to connect or discuss the project:
 
 * 📧 **Email:** [shashankngowda18@gmail.com]
 * 👔 **LinkedIn:** [linkedin](https://www.linkedin.com/in/shashank-n-gowda-148456258/)
+
 
 
 
